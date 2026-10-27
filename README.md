@@ -2,9 +2,6 @@
 
 ## Caso de estudio: ventas mensuales de una empresa de calzado (2020 – 2024)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO_GITHUB/analitica-predictiva-zapatos/blob/main/notebooks/Analisis_Predictivo_Zapatos.ipynb)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-modelos-F7931E)
 
 | | |
 |---|---|

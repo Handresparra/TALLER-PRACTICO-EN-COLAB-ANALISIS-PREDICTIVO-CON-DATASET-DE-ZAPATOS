@@ -87,10 +87,12 @@ Dataset sintético entregado con la guía del taller. Los años de los últimos 
 
 ## Referencias
 
-Google Cloud. (s.f.). *¿Qué es el análisis predictivo?* https://cloud.google.com/learn/what-is-predictive-analytics?hl=es
+## 16. Referencias
 
-Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825–2830.
+Google Cloud. (s.f.). *¿Qué es el análisis predictivo?* Recuperado el 27 de octubre de 2026, de https://cloud.google.com/learn/what-is-predictive-analytics?hl=es
 
-Universidad de Cundinamarca. (2024). *Diferencias entre el análisis descriptivo, predictivo y prescriptivo* [Guía Analítica Empresarial, material de clase].
+lemrei2025-ai. (2026). *Taller-BigData---ETL: Taller práctico ETL con Python y Power BI* [Repositorio de GitHub]. GitHub. https://github.com/lemrei2025-ai/Taller-BigData---ETL
 
-Universidad de Cundinamarca. (2026). *Taller – Práctica de analítica predictiva empresarial* [Guía de actividad y dataset].
+Universidad de Cundinamarca. (2024). *Diferencias entre el análisis descriptivo, predictivo y prescriptivo* [Guía Analítica Empresarial, material de clase]. Especialización en Analítica y Ciencia de Datos.
+
+Universidad de Cundinamarca. (2026). *Taller – Práctica de analítica predictiva empresarial* [Guía de actividad y dataset S12_dataset_ventas_zapatos.xlsx]. Especialización en Analítica y Ciencia de Datos.
